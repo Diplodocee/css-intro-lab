@@ -23,6 +23,10 @@ body {
   background-color: #eee;
 }
 
+.container section {
+  background-color=yellow;
+}
+
 section {
     margin: 3em 0;
 }
